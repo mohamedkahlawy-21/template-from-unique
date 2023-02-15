@@ -1,0 +1,63 @@
+.uppercase{
+    text-transform:uppercase;
+}
+
+.capitalize{
+    text-transform:capitalize;
+}
+
+.float-left{
+    float:left;
+}
+
+.clear-both{
+    clear:both
+}
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="pareant-joe-doe">
+        <div class="joe-doe"><!-- joe-doe -->
+              <div class="i--img">
+                <img src="images/team/team1.webp">
+             </div>
+            
+             <div class="joe-doe-style">
+                <div class="joe-doe-h2">
+                   <h2>joe doe</h2>
+                </div><!-- //joe-doe-h2 -->
+            
+                <div class="joe-doe-icon">
+                    <ul>
+                        <li><a href="facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="google"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="insagram"><i class="fa fa-instagram"></i></a></li>
+            
+                    </ul>
+            
+                </div><!-- //joe-doe-icon -->
+            </div><!-- //joe-doe-style -->
+            <p class="ul--p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat enim soluta vitae laboriosam cumque maxime exercitationem, eligendi facere vero non tempore cum!</p>
+            
+            
+         </div><!-- //joe-doe -->
+         
+            
+    </div><!-- //pareant-joe-doe -->
+</div><!-- //container -->
+
+
+
+
+
+
